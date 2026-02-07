@@ -7,3 +7,6 @@ for i in range(1, 101, 1):
         print("buzz")
     else:
         print(i)
+
+# for good presentation using columns use:
+# print(f"{'fizzbuzz:10'}", end=" ")
